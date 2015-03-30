@@ -1,0 +1,7 @@
+Fish key
+
+My friend <a href="http://aand.dkonto.pl/chmur/" title="Agata's website" target="_blank">Agata</a> had a good idea of creating a key for <a href="http://musicnotation.org/systems/group/whole-step-5-lines/" title="alternative 12-tone music notation" target="_blank">12-tone equal music notation</a>. It's called Fish key and it shows where F sharp (Fis in German naming) note is laying. Enjoy!
+
+<img src="/img/fis_h_key.png" alt="fis(h) key" style="height:200px;" />
+
+I wrote about alternative music notation in <a href="/blog/equal-music/" title="equal music" target="_blank">past post</a>.

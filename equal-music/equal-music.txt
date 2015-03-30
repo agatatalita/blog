@@ -1,0 +1,91 @@
+This piece of text is not finished yet. It's a draft now and i'm going to publish drafts (so you can happily read the bullshit versions and not care about the good final ones). I just need some instant gratification of seeing this stuff accessible to everyone right now.
+
+Have you seen the video by ViHart <a href="http://www.youtube.com/watch?v=4niz8TfY794" title="Twelve Tones" target="_blank">Twelve Tones</a>?
+
+And have you ever wondered why we use the kind of music we use? Why from the infinite continuous space of tones/frequencies we pick those 12 specific repeating ones?
+
+Eee, what is he talking about? This:
+
+C - C#/Db - D - D#/Eb - E - F - F#/Gb - G - G#/Ab - A - A#/Bb - (C again) etc.
+
+Each of these tones has a specific frequency. People in Europe picked a frequency of 440 Hz at some point and called it a1. (440 Hz means that the sound wave goes up and down 440 times per second (technically air molecules go together and then from each other 440 times per second.)) This number is randomly picked. In fact it changed through history (link).
+
+So we have A - 110 Hz, a - 220 Hz, a1 440 Hz, a2 880 Hz, a3 - 1760 Hz etc. The distance between each two neighboring a-s is called octave.
+Octave sounds good together (probably) because the two frequencies have the nice ratio: 2:1 (440 Hz : 220 Hz) and so on. These waves add nicely together. In fact it is general characteristic of pleasantly sounding pairs of tones: when we divide one by another, we get ratio of two small natural numbers (1, 2, 3, 4, ...).
+(according to <a href="http://en.wikipedia.org/wiki/Octave#Theory" target="_blank">Wikipedia:Octave</a> even monkeys like octaves)
+
+In case of octave that sound waves may look like this:
+
+-------|-------|-------|-------|-------|------- 220 Hz
+---|---|---|---|---|---|---|---|---|---|---|--- 440 Hz
+
+Why did we pick 12 specific tones out of each octave like this? And why did we (we the modern western culture) narrowed this choice by picking 7 tones out of these 12? (C, D, E, F, G, A, B, (C))?
+
+Why? WHY?
+
+In fact that first 12-semitone choice might make some sense (as we'll try to explain later). But please, can anybody show me, why did we allowed those 7 main tones to enslave us into traditional western sound, notation and music in general? If you ever tried to play piano, you know how the familiar 7 repeated white keys are like cruel masters who force you to conform to their kind of music. And traditional musical notation. Oh dear. It seems as if this notation was chosen to make playing easier for piano nation.
+
+But does it make any sense? No. NO. It doesn't make any sense (to me now). In czech language I made a word for things like this. I call them "zakopanosti" ("dug-ins"). 
+Definition: "Dug-ins are things which are the way they are because they are the way they are."
+
+If you watch carefully, you might start to see these things everywhere around. Usually we take them for granted and question them very rarely. But the basis for them is so fragile! So weak that small wind makes them collapse. When you find stuff that might be one of these dig-ins, please, please question it.
+
+(and some people indeed do question the musical "dig-ins".)
+
+There is a beautiful project <a href="http://musicnotation.org/" title="The Music Notation Project" target="_blank">The Music Notation Project</a>, which questions the traditional piano-friendly musical notation (which we learned and take for granted (and which doesn't make any sense)), and replaces it with Chromatic Staff, which offers much more general sense.
+
+If you've watched the video provided at the beginning, you already know that some composers tried to get out of this western musical cage.
+
+(TODO: add summary and better explanation and pictures!)
+
+So now...
+
+...now it is the time to step out of the world of musical slavery into the free world. Let's count intervals in half-tones, let's throw away # and b, let's dump traditional musical notation and replace it with chromatic staff.
+
+Ok, step out, now.
+
+Feel it?
+
+Now the cruel reality. This freedom may come hand in hand with insecurity. The free music doesn't sound right! Moreover, it's still not an ultimate freedom.
+
+We started with octave: ratio 2:1.
+
+What other nice ratios do we have? What do you think?
+
+3:2. Yes. In fact, we call this distance perfect fifth. It's a distance for example between C and G.
+The musical slaves call it perfect fifth because C-D-E-F-G are five tones. Stupid. Actually, there are 7 semitones between C and G. 7 semitones. Not a weird combination of 3 tones and 1 semitone.
+
+4:3. Perfect fourth. Distance of 5 semitones.
+When we add perfect fourth to perfect fifth, we get full octave. (3:2)*(4:3) = 4:2 = 2:1
+
+5:4. Major third. Distance of 4 semitones.
+
+6:5. Minor third. 3 semitones.
+
+And let's count some other ratios: C - G - D is twice 7 halftones. So ratio between c1 and d2 is (3/2)*(3/2) = 9/4. Therefore ratio between c1 and d1 is 9/4:2 = 9/8. The whole tone - 2 semitones.
+
+440 Hz
+
+So we called this distance octave. 
+
+
+
+What about other distances? 
+
+We have perfect fif
+
+How many semitones are there in an octave?
+
+Why 12?
+
+Any other possibilities?
+
+Standard music sheet is great for piano. But anything else?
+
+Piano forces us to play certain type of music.
+
+sheet music alternative
+
+How to get beyond our musical conditioning?
+
+Continuous fingerboard.

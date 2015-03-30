@@ -1,0 +1,11 @@
+start
+
+<a href="#" title="10th May 2014">Today</a>, I used <a title="Installing WordPress" href="http://codex.wordpress.org/Installing_WordPress" target="_blank">knowledge of The Internet</a> and started a <a title="WordPress home page" href="http://wordpress.org/" target="_blank">wordpress</a> based blog as a part of <a title="home page of author of this blog" href="http://michalsalajka.com" target="_blank">some webpages</a>. A minimalistic <a title="zh2 theme of zenhabits.net" href="http://zenhabits.net/theme/" target="_blank">zh2 theme</a> was used, created by <a title="Leo Babauta" href="http://leobabauta.com/" target="_blank">the author</a> of <a title="zenhabits" href="http://zenhabits.net/" target="_blank">zenhabits</a>.
+
+This blog's main focus will be on music, human collaboration, traveling, coding, internet for collaboration in the real world.
+
+Sometimes a personal stuff.
+
+Main language: English. Apologies for mistakes (non-native English speaker).
+
+Hello.
